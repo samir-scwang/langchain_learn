@@ -8,6 +8,7 @@ public class Langchain4j03bootintegrationApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(Langchain4j03bootintegrationApplication.class, args);
+        System.out.println();
     }
 
 }
