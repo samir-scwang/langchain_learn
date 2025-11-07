@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c91e292a-3c4d-4dc9-841f-19211cc58762" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Javaproject\maven-repository" />
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+        <option name="userSettingsFile" value="D:\Javaproject\apache-maven-3.9.11\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="32wyIEzNiVbq8kYzko9EDjHhbxU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.LLMConfigTest.testApiKeyLoadedFromEnv.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RedisTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.langchain4j-03bootintegration [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.langchain_learn [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.langchain_learn [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.langchain_learn [package].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Langchain4j01helloworldApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Langchain4j02multiModelTogetherApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Langchain4j03bootintegrationApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.LangchainLearnApplication.executor&quot;: &quot;Run&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/mySpringBoot/langchain_learn/langchain4j-02multi-model-together/src/main/java/com/sicheng/langchain4j02multimodeltogether&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mySpringBoot\langchain_learn\langchain4j-02multi-model-together\src\main\java\com\sicheng\langchain4j02multimodeltogether" />
+      <recent name="D:\mySpringBoot\langchain_learn\langchain4j-02multi-model-together\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sicheng.langchain4j03bootintegration.config" />
+      <recent name="com.sicheng.langchain4j02multimodeltogether.config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Langchain4j03bootintegrationApplication">
+    <configuration name="LLMConfigTest.testApiKeyLoadedFromEnv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="langchain4j-01helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sicheng.langchain4j01helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sicheng.langchain4j01helloworld" />
+      <option name="MAIN_CLASS_NAME" value="com.sicheng.langchain4j01helloworld.LLMConfigTest" />
+      <option name="METHOD_NAME" value="testApiKeyLoadedFromEnv" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="langchain4j-03bootintegration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sicheng.langchain4j03bootintegration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sicheng.langchain4j03bootintegration" />
+      <option name="MAIN_CLASS_NAME" value="com.sicheng.langchain4j03bootintegration.RedisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Langchain4j01helloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-01helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sicheng.langchain4j01helloworld.Langchain4j01helloworldApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Langchain4j02multiModelTogetherApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-02multi-model-together" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sicheng.langchain4j02multimodeltogether.Langchain4j02multiModelTogetherApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Langchain4j03bootIntegrationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-03boot-integration" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sicheng.langchain4j03bootintegration.Langchain4j03bootIntegrationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Langchain4j03bootintegrationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain4j-03bootintegration" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sicheng.langchain4j03bootintegration.Langchain4j03bootintegrationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LangchainLearnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="langchain_learn" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sicheng.langchain_learn.LangchainLearnApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedisTest" />
+        <item itemvalue="JUnit.LLMConfigTest.testApiKeyLoadedFromEnv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19416.15" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19416.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c91e292a-3c4d-4dc9-841f-19211cc58762" name="Changes" comment="" />
+      <created>1758345848951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758345848951</updated>
+      <workItem from="1758345850115" duration="1574000" />
+      <workItem from="1758347434062" duration="1110000" />
+      <workItem from="1758348554581" duration="223000" />
+      <workItem from="1758348783136" duration="1273000" />
+      <workItem from="1758350367434" duration="776000" />
+      <workItem from="1758351153276" duration="3261000" />
+      <workItem from="1758354872272" duration="1542000" />
+      <workItem from="1758360221361" duration="4544000" />
+      <workItem from="1758442357977" duration="14234000" />
+      <workItem from="1758506471469" duration="2558000" />
+      <workItem from="1758611159813" duration="12471000" />
+      <workItem from="1758681964787" duration="1271000" />
+      <workItem from="1758846143233" duration="5078000" />
+      <workItem from="1759113168249" duration="16000" />
+      <workItem from="1762239716841" duration="6278000" />
+      <workItem from="1762268387062" duration="3000" />
+      <workItem from="1762277016684" duration="2044000" />
+      <workItem from="1762279078290" duration="1598000" />
+      <workItem from="1762433248578" duration="616000" />
+      <workItem from="1762443273195" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-01helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-02multi-model-together/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-04-bootintegration/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-03boot-integration/pom.xml" />
+        <option value="$PROJECT_DIR$/langchain4j-03bootintegration/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/langchain4j-03boot-integration/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

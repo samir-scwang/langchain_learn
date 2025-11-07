@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="langchain4j-01helloworld" />
+        <module name="langchain4j-03bootintegration" />
+        <module name="langchain4j-02multi-model-together" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="langchain4j-03boot-integration" target="21" />
+      <module name="langchain4j-04-bootintegration" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="langchain4j-01helloworld" options="-parameters" />
+      <module name="langchain4j-02multi-model-together" options="-parameters" />
+      <module name="langchain4j-03boot-integration" options="-parameters" />
+      <module name="langchain4j-03bootintegration" options="-parameters" />
+      <module name="langchain4j-04-bootintegration" options="-parameters" />
+      <module name="langchain_learn" options="-parameters" />
+    </option>
+  </component>
+</project>
